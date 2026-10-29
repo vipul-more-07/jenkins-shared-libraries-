@@ -1,4 +1,4 @@
 def call ()
 { 
-  print "hello world"
+  echo "hello world"
 }
